@@ -119,7 +119,7 @@ const Card = ({image, title, createData}) => {
             fontWeight: '400',
             marginHorizontal: wp(1),
           }}>
-          john Don
+          John Don
         </Text>
       </View>
     </View>

@@ -230,7 +230,7 @@ const App = () => {
                 style={{
                   color: '#FFF', // or use: 'var(--white, #FFF)'
                   textAlign: 'center',
-                  fontFamily: 'Roboto Flex', // Note: Check if this font is available in your project
+                  fontFamily: 'Roboto-Flex', // Note: Check if this font is available in your project
                   fontSize: 28,
                   fontStyle: 'normal',
                   fontWeight: '800',
@@ -244,7 +244,7 @@ const App = () => {
                 style={{
                   color: '#FFF', // or use: 'var(--white, #FFF)'
                   textAlign: 'center',
-                  fontFamily: 'Roboto Flex', // Note: Check if this font is available in your project
+                  fontFamily: 'Roboto-Flex', // Note: Check if this font is available in your project
                   fontSize: 16,
                   fontStyle: 'normal',
                   fontWeight: '600',
@@ -263,7 +263,7 @@ const App = () => {
                 style={{
                   color: '#ffffff', // Default to white if the variable is not defined
                   // H6/medium
-                  fontFamily: 'Roboto Flex',
+                  fontFamily: 'Roboto-Flex',
                   fontSize: 14,
                   fontStyle: 'normal',
                   // fontWeight: '500',
@@ -284,7 +284,7 @@ const App = () => {
           <Text
             style={{
               color: '#000', // or use: 'var(--black, #000)'
-              fontFamily: 'Roboto Flex', // Note: Check if this font is available in your project
+              fontFamily: 'Roboto-Flex', // Note: Check if this font is available in your project
               fontSize: 24,
               fontStyle: 'normal',
               fontWeight: '600',
@@ -349,7 +349,7 @@ const App = () => {
                 <Text
                   style={{
                     color: '#000', // or use: 'var(--black, #000)'
-                    fontFamily: 'Roboto Flex', // Note: Check if this font is available in your project
+                    fontFamily: 'Roboto-Flex', // Note: Check if this font is available in your project
                     fontSize: 16,
                     fontStyle: 'normal',
                     fontWeight: 'bold',
@@ -368,7 +368,7 @@ const App = () => {
                 style={{
                   marginHorizontal: wp(5),
                   color: '#000', // or use: 'var(--black, #000)'
-                  fontFamily: 'Roboto Flex', // Note: Check if this font is available in your project
+                  fontFamily: 'Roboto-Flex', // Note: Check if this font is available in your project
                   fontSize: 16,
                   fontStyle: 'normal',
                   fontWeight: 'bold',
@@ -398,7 +398,7 @@ const App = () => {
                   marginTop: hp(3),
                   color: '#000000',
                   color: '#000', // or use: 'var(--black, #000)'
-                  fontFamily: 'Roboto Flex', // Note: Check if this font is available in your project
+                  fontFamily: 'Roboto-Flex', // Note: Check if this font is available in your project
                   fontSize: 16,
                   fontStyle: 'normal',
                   fontWeight: 'bold',
@@ -440,7 +440,7 @@ const App = () => {
                           style={{
                             color: '#000', // or use: 'black'
                             textAlign: 'center',
-                            fontFamily: 'Roboto Flex', // Note: Check if this font is available in your project
+                            fontFamily: 'Roboto-Flex', // Note: Check if this font is available in your project
                             fontSize: 15,
                             fontStyle: 'normal',
                             fontWeight: '700',
@@ -452,7 +452,7 @@ const App = () => {
                           style={{
                             color: '#B4B4B4', // or use: 'var(--neutral-400, #B4B4B4)'
                             textAlign: 'center',
-                            fontFamily: 'Roboto Flex', // Note: Check if this font is available in your project
+                            fontFamily: 'Roboto-Flex', // Note: Check if this font is available in your project
                             fontSize: 13,
                             fontStyle: 'normal',
                             fontWeight: '700',
@@ -542,7 +542,7 @@ const App = () => {
                     style={{
                       color: '#000',
 
-                      fontFamily: 'Roboto Flex',
+                      fontFamily: 'Roboto-Flex',
                       fontSize: 14,
                       fontStyle: 'normal',
                       fontWeight: '400',
@@ -567,7 +567,7 @@ const App = () => {
                     style={{
                       color: '#ffffff', // or use: 'var(--black, #000)'
                       textAlign: 'center',
-                      fontFamily: 'Roboto Flex', // Note: Check if this font is available in your project
+                      fontFamily: 'Roboto-Flex', // Note: Check if this font is available in your project
                       fontSize: 14,
                       fontStyle: 'normal',
                       fontWeight: '400',
