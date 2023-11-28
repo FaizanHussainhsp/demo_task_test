@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305096915890",
+    "project_id": "checkadd-fb3ce",
+    "storage_bucket": "checkadd-fb3ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305096915890:android:7c49597b07688f688482ab",
+        "android_client_info": {
+          "package_name": "com.checkadd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwh3BhxNupO-rN_GSvu_4fAnSPW0HOCd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
